@@ -10,4 +10,13 @@ public class C {
     public  void m2(){
         System.out.println("In non-static C-m2()");
     }
+
+
+
+
+
+    public static void main(String[] args) {
+
+        System.out.println("Print the git changes");
+    }
 }
